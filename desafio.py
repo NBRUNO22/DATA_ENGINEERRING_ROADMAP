@@ -22,4 +22,4 @@ print(f"O usuario {nome_usuario} possui o bonus de {valor_do_bonus}")
 # Bônus: Quantos bugs e riscos você consegue identificar nesse programa?
 
 # o nome pode ser numero e onde esta numero pode colocar string, 
-# valor pode colocar negativo o que influencia no bonus
+# valor pode colocar negativo o que influencia no bonus5
